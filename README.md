@@ -150,9 +150,9 @@ Transform images into artistic masterpieces using Adaptive Instance Normalizatio
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=chandansinghbhandari&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandansinghbhandari&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -161,14 +161,14 @@ Transform images into artistic masterpieces using Adaptive Instance Normalizatio
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandansinghbhandari&theme=tokyonight" />
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandansinghbhandari&theme=tokyo-night" />
 
 ---
 
@@ -204,15 +204,15 @@ Transform images into artistic masterpieces using Adaptive Instance Normalizatio
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/chandan-singh-bhandari-91627a330/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:chandanbhandari596@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/chandansinghbhandari">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
@@ -226,7 +226,7 @@ Transform images into artistic masterpieces using Adaptive Instance Normalizatio
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=chandansinghbhandari&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ---
 <!--
