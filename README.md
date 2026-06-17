@@ -154,8 +154,33 @@ Transform images into artistic masterpieces using Adaptive Instance Normalizatio
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanbhandari596&layout=compact&theme=tokyonight&hide=html,css" />
 
 <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandansinghbhandari&layout=compact&theme=tokyonight"/> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanbhandari596&layout=compact&theme=tokyonight&hide=html,css,javascript" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanbhandari596&layout=compact&theme=tokyonight&hide=html,css,javascript" /> -->
+## 🚀 Core Skills & Expertise
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-00ACC1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG%20Systems-6A1B9A?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+
+</p>
 </p>
 
 ---
@@ -163,7 +188,7 @@ Transform images into artistic masterpieces using Adaptive Instance Normalizatio
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chandansinghbhandari&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=chandanbhandari596&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
 
