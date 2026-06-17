@@ -150,9 +150,11 @@ Transform images into artistic masterpieces using Adaptive Instance Normalizatio
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=chandansinghbhandari&show_icons=true&theme=tokyonight"/>
+<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=chandansinghbhandari&show_icons=true&theme=tokyonight"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanbhandari596&layout=compact&theme=tokyonight&hide=html,css" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandansinghbhandari&layout=compact&theme=tokyonight"/>
+<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandansinghbhandari&layout=compact&theme=tokyonight"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanbhandari596&layout=compact&theme=tokyonight&hide=html,css,javascript" />
 
 </p>
 
@@ -161,9 +163,8 @@ Transform images into artistic masterpieces using Adaptive Instance Normalizatio
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandansinghbhandari&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=chandansinghbhandari&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
